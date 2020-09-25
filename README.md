@@ -8,6 +8,10 @@ https://pkg.go.dev/github.com/noxer/compatnum
 ```go
 package main
 
+import (
+    "github.com/noxer/compatnum"
+)
+
 type MyStruct struct {
     MyInt compatnum.Int
 }
