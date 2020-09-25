@@ -2,7 +2,7 @@
 Data types for storing integers as JSON strings or numbers depending on the size.
 
 ## docs
-[https://pkg.go.dev/github.com/noxer/compatnum]
+https://pkg.go.dev/github.com/noxer/compatnum
 
 ## example
 ```go
